@@ -1,0 +1,17 @@
+http://javajeeliferaytutorials.blogspot.com.br/p/develope-java-desktop-application-using.html
+
+JavaFX
+1 - https://www.lynda.com/Java-tutorials/JavaFX-GUI-Development/466182-2.html?srchtrk=index%3a8%0alinktypeid%3a2%0aq%3afxml%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2
+
+FXML
+2 - https://www.lynda.com/Java-tutorials/Create-Interfaces-FXML-JavaFX/534632-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3afxml%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2
+
+TDD
+3 - https://www.lynda.com/Spring-Framework-tutorials/Spring-Test-Driven-Development-JUnit/614314-2.html
+3 - https://medium.com/@josevieiraneto/tdd-com-spring-boot-b5bf7ec725e
+
+Scene Builder
+https://www.jetbrains.com/help/idea/opening-fxml-files-in-javafx-scene-builder.html
+
+http://gluonhq.com/products/scene-builder/
+
